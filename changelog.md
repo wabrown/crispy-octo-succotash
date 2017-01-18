@@ -1,4 +1,7 @@
 #Changelog
+##Version 1.0.1
+* Added Quotes tooltip display
+
 ##Version 1.0.0
 * initalized repository
 

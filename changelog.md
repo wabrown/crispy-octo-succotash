@@ -1,4 +1,6 @@
 #Changelog
+##Version 1.1.2
+* Added random Quote funtion
 ##Version 1.1.1
 * Added Quotes tooltip display
 
